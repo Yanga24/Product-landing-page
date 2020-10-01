@@ -44,7 +44,7 @@ top: 0;
 }
 
 #nav-bar{
-  overflows:hidden;
+  overflow:hidden;
   position:flexed;
   background-color:#1a1a1a;
   width:100%;
@@ -55,7 +55,7 @@ top: 0;
  .nav-link{
   text-decoration:none;
   text-align:center;
-  font-alice:18px;
+  font-size:18px;
   padding:14px 10px;
   transition: background .5s ease;
 } 
